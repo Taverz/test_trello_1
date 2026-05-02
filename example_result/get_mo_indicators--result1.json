@@ -1,0 +1,454 @@
+{
+    "MESSAGES": {
+        "error": null,
+        "warning": null,
+        "info": null
+    },
+    "DATA": {
+        "page": 0,
+        "pages_count": 0,
+        "rows_count": 73,
+        "rows_total_count": 0,
+        "rows": [
+            {
+                "name": "ПЕРЕХОД с 4ки на 5ку",
+                "indicator_to_mo_id": 318002,
+                "parent_id": 4255,
+                "order": 1
+            },
+            {
+                "name": "Заявка Пиканта",
+                "indicator_to_mo_id": 318185,
+                "parent_id": 4255,
+                "order": 2
+            },
+            {
+                "name": "Обновить описание мобильного (AppStore, Play Market, ruStore)",
+                "indicator_to_mo_id": 317117,
+                "parent_id": 4255,
+                "order": 3
+            },
+            {
+                "name": "ТЗ настройка внешнего вида",
+                "indicator_to_mo_id": 318198,
+                "parent_id": 4255,
+                "order": 4
+            },
+            {
+                "name": "Поменять даты размещения вебинара, Школы",
+                "indicator_to_mo_id": 318032,
+                "parent_id": 318198,
+                "order": 1
+            },
+            {
+                "name": "Сделать бот который из ЦУ",
+                "indicator_to_mo_id": 318236,
+                "parent_id": 318198,
+                "order": 2
+            },
+            {
+                "name": "Текучка кадров.",
+                "indicator_to_mo_id": 318139,
+                "parent_id": 318198,
+                "order": 3
+            },
+            {
+                "name": "Получить оплату от клиентов",
+                "indicator_to_mo_id": 318005,
+                "parent_id": 318139,
+                "order": 1
+            },
+            {
+                "name": "Добавить поддержку статистических функций в формулах показателей",
+                "indicator_to_mo_id": 318113,
+                "parent_id": 318139,
+                "order": 2
+            },
+            {
+                "name": "ТЗ Управление клиентами задачи, периодом повторения и \"на контроле",
+                "indicator_to_mo_id": 318212,
+                "parent_id": 318139,
+                "order": 3
+            },
+            {
+                "name": "Проект РегМед Инна (АЛИ) в 14 00",
+                "indicator_to_mo_id": 317650,
+                "parent_id": 318139,
+                "order": 4
+            },
+            {
+                "name": "Заявка на Школу k.malyugina@solid-mn.ru",
+                "indicator_to_mo_id": 318140,
+                "parent_id": 317650,
+                "order": 1
+            },
+            {
+                "name": "тест сегодня выполнение.",
+                "indicator_to_mo_id": 318482,
+                "parent_id": 317650,
+                "order": 2
+            },
+            {
+                "name": "Выставить счет Азизе (Автогрупп) (СТОПРО СТОЛИДЕР)",
+                "indicator_to_mo_id": 317772,
+                "parent_id": 317650,
+                "order": 3
+            },
+            {
+                "name": "По клиентам в ЦУ можно использовать доп поля",
+                "indicator_to_mo_id": 317738,
+                "parent_id": 317650,
+                "order": 4
+            },
+            {
+                "name": "Рассылка unisender",
+                "indicator_to_mo_id": 318197,
+                "parent_id": 317650,
+                "order": 5
+            },
+            {
+                "name": "Результативность серволюкс на всех и на все периоды",
+                "indicator_to_mo_id": 318027,
+                "parent_id": 317650,
+                "order": 6
+            },
+            {
+                "name": "ТГ бот",
+                "indicator_to_mo_id": 318194,
+                "parent_id": 317650,
+                "order": 7
+            },
+            {
+                "name": "ТЗ Добавление показателей отмеченным в оргструктуре",
+                "indicator_to_mo_id": 318208,
+                "parent_id": 318139,
+                "order": 5
+            },
+            {
+                "name": "Кандидаты",
+                "indicator_to_mo_id": 318142,
+                "parent_id": 318139,
+                "order": 6
+            },
+            {
+                "name": "ТЗ Управление периодами (открыт / закрыт)",
+                "indicator_to_mo_id": 318211,
+                "parent_id": 318139,
+                "order": 7
+            },
+            {
+                "name": "План по умолчанию сделать через галку",
+                "indicator_to_mo_id": 317836,
+                "parent_id": 318139,
+                "order": 8
+            },
+            {
+                "name": "ТЗ - канбан sdfsfsdfsd",
+                "indicator_to_mo_id": 318186,
+                "parent_id": 318139,
+                "order": 9
+            },
+            {
+                "name": "Список текучка",
+                "indicator_to_mo_id": 318133,
+                "parent_id": 318139,
+                "order": 10
+            },
+            {
+                "name": "ТЗ Редактирование экспертов",
+                "indicator_to_mo_id": 318193,
+                "parent_id": 318133,
+                "order": 1
+            },
+            {
+                "name": "ЗАВЕРШЕНО",
+                "indicator_to_mo_id": 317719,
+                "parent_id": 318133,
+                "order": 2
+            },
+            {
+                "name": "Продвижение школы",
+                "indicator_to_mo_id": 318199,
+                "parent_id": 317719,
+                "order": 1
+            },
+            {
+                "name": "Разобраться как метки расставлять в CSV при импорте.",
+                "indicator_to_mo_id": 318131,
+                "parent_id": 317719,
+                "order": 2
+            },
+            {
+                "name": "Пригласить через админов на Школу (до 1го ноября льготная цена на Школу)",
+                "indicator_to_mo_id": 318232,
+                "parent_id": 318131,
+                "order": 1
+            },
+            {
+                "name": "Выставить счет рекрут центру 123",
+                "indicator_to_mo_id": 318192,
+                "parent_id": 318131,
+                "order": 2
+            },
+            {
+                "name": "Выставить счет Стоматологии",
+                "indicator_to_mo_id": 318031,
+                "parent_id": 318192,
+                "order": 1
+            },
+            {
+                "name": "Вернуть деньги за Школу саммиту Юлии",
+                "indicator_to_mo_id": 318135,
+                "parent_id": 318192,
+                "order": 2
+            },
+            {
+                "name": "Сделать акты по клиентам",
+                "indicator_to_mo_id": 318181,
+                "parent_id": 318192,
+                "order": 3
+            },
+            {
+                "name": "ТЗ  Отчеты с показателями в строках",
+                "indicator_to_mo_id": 318210,
+                "parent_id": 318192,
+                "order": 4
+            },
+            {
+                "name": "Сделать бэкапы у аптрейд",
+                "indicator_to_mo_id": 318104,
+                "parent_id": 318192,
+                "order": 5
+            },
+            {
+                "name": "Сходить на вебинар топ фактор 14 мск",
+                "indicator_to_mo_id": 318155,
+                "parent_id": 318192,
+                "order": 6
+            },
+            {
+                "name": "Сабскрайб",
+                "indicator_to_mo_id": 318156,
+                "parent_id": 318192,
+                "order": 7
+            },
+            {
+                "name": "Планерка с Егором. Азаматом",
+                "indicator_to_mo_id": 318019,
+                "parent_id": 318192,
+                "order": 8
+            },
+            {
+                "name": "Восстановить ШУГУ (Sugar)",
+                "indicator_to_mo_id": 318183,
+                "parent_id": 318192,
+                "order": 9
+            },
+            {
+                "name": "ТЗ Библиотека функций ",
+                "indicator_to_mo_id": 318023,
+                "parent_id": 318192,
+                "order": 10
+            },
+            {
+                "name": "Бухгалтерия",
+                "indicator_to_mo_id": 318200,
+                "parent_id": 318192,
+                "order": 11
+            },
+            {
+                "name": "Загрузка",
+                "indicator_to_mo_id": 317641,
+                "parent_id": 318192,
+                "order": 12
+            },
+            {
+                "name": "Правила по внешнему виду интерфейса",
+                "indicator_to_mo_id": 317741,
+                "parent_id": 318192,
+                "order": 13
+            },
+            {
+                "name": "Добавить цели для каждой формы",
+                "indicator_to_mo_id": 318231,
+                "parent_id": 318192,
+                "order": 14
+            },
+            {
+                "name": "Уведомления АЛ",
+                "indicator_to_mo_id": 317714,
+                "parent_id": 318192,
+                "order": 15
+            },
+            {
+                "name": "Невнесенные данные их нет как их считать",
+                "indicator_to_mo_id": 318124,
+                "parent_id": 318192,
+                "order": 16
+            },
+            {
+                "name": "ТЗ оценка рук-ля напротив самооценки",
+                "indicator_to_mo_id": 318237,
+                "parent_id": 318192,
+                "order": 17
+            },
+            {
+                "name": "ТЗ Открытие отчетов по выбранным сотрудникам в оргструктуре.",
+                "indicator_to_mo_id": 318209,
+                "parent_id": 318131,
+                "order": 3
+            },
+            {
+                "name": "Сделать маленьким шрифтом политику конф в формах сайтов",
+                "indicator_to_mo_id": 317712,
+                "parent_id": 317719,
+                "order": 3
+            },
+            {
+                "name": "Ввести акты по расходам в 1С",
+                "indicator_to_mo_id": 318166,
+                "parent_id": 317719,
+                "order": 4
+            },
+            {
+                "name": "возврат вычета Серволюкс (10%)",
+                "indicator_to_mo_id": 318159,
+                "parent_id": 317719,
+                "order": 5
+            },
+            {
+                "name": "Получить доплату с Серволюкса",
+                "indicator_to_mo_id": 318003,
+                "parent_id": 317719,
+                "order": 6
+            },
+            {
+                "name": "АП трейд повышение цен",
+                "indicator_to_mo_id": 317653,
+                "parent_id": 317719,
+                "order": 7
+            },
+            {
+                "name": "Продлить hrc.ru c SSL и кнопками на сайт lityagin.ru и kpi-drive.ru",
+                "indicator_to_mo_id": 318154,
+                "parent_id": 317719,
+                "order": 8
+            },
+            {
+                "name": "ТЗ Сделать ссылки на окна и экраны",
+                "indicator_to_mo_id": 317835,
+                "parent_id": 317719,
+                "order": 9
+            },
+            {
+                "name": "Встреча с АТЭКС",
+                "indicator_to_mo_id": 317773,
+                "parent_id": 317719,
+                "order": 10
+            },
+            {
+                "name": "Решить вопрос с Ковалышевым М. по оплате",
+                "indicator_to_mo_id": 317963,
+                "parent_id": 318133,
+                "order": 3
+            },
+            {
+                "name": "Восстановить e-learning",
+                "indicator_to_mo_id": 318184,
+                "parent_id": 318133,
+                "order": 4
+            },
+            {
+                "name": "Сделать легкую вики понятную и актуальную",
+                "indicator_to_mo_id": 318206,
+                "parent_id": 318133,
+                "order": 5
+            },
+            {
+                "name": "Улучшить кнопку отправить на сайтах",
+                "indicator_to_mo_id": 317983,
+                "parent_id": 318133,
+                "order": 6
+            },
+            {
+                "name": "Разобрать задачи СФ и АР и Егора в ЦУ",
+                "indicator_to_mo_id": 317651,
+                "parent_id": 318139,
+                "order": 11
+            },
+            {
+                "name": "Внедрение Точка опоры Щетько",
+                "indicator_to_mo_id": 318029,
+                "parent_id": 318139,
+                "order": 12
+            },
+            {
+                "name": "Убрать Леру из админов kpi-drive tg добавить Алину, поменять логотип",
+                "indicator_to_mo_id": 317886,
+                "parent_id": 318198,
+                "order": 4
+            },
+            {
+                "name": "Войти в сибирский сад и вернуться",
+                "indicator_to_mo_id": 318125,
+                "parent_id": 318198,
+                "order": 5
+            },
+            {
+                "name": "Клуб Администраторов",
+                "indicator_to_mo_id": 317702,
+                "parent_id": 318198,
+                "order": 6
+            },
+            {
+                "name": "Описание на сайте kpi-drive.ru обновить",
+                "indicator_to_mo_id": 317119,
+                "parent_id": 318198,
+                "order": 7
+            },
+            {
+                "name": "Удалить выключенные ВМ",
+                "indicator_to_mo_id": 318004,
+                "parent_id": 318198,
+                "order": 8
+            },
+            {
+                "name": "Партнерство с Рябовым",
+                "indicator_to_mo_id": 318170,
+                "parent_id": 318198,
+                "order": 9
+            },
+            {
+                "name": "Сделать отчет по ТП",
+                "indicator_to_mo_id": 318182,
+                "parent_id": 318198,
+                "order": 10
+            },
+            {
+                "name": "Задачи",
+                "indicator_to_mo_id": 4257,
+                "parent_id": 4255,
+                "order": 5
+            },
+            {
+                "name": "Поток Задачи",
+                "indicator_to_mo_id": 317686,
+                "parent_id": 4255,
+                "order": 6
+            },
+            {
+                "name": "Отчеты по старому",
+                "indicator_to_mo_id": 317649,
+                "parent_id": 4255,
+                "order": 8
+            },
+            {
+                "name": "Провести вебинар ПО",
+                "indicator_to_mo_id": 317713,
+                "parent_id": 4255,
+                "order": 9
+            }
+        ]
+    },
+    "STATUS": "OK"
+}
